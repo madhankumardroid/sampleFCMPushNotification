@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "528768662192",
+    "firebase_url": "https://samplefcm-358b6.firebaseio.com",
+    "project_id": "samplefcm-358b6",
+    "storage_bucket": "samplefcm-358b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528768662192:android:d7789a283f7330c3",
+        "android_client_info": {
+          "package_name": "com.android.samplefcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528768662192-8jbp8n4v6bj7n40h01f5ti0mrarjvveg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvwT9JIHjXhhYtgg_ctJ4yBJ_Hxc3uY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
